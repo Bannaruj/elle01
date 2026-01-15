@@ -4,7 +4,7 @@
     $dataB = array(11,22,33,44,55);
     $dataC = array("aa","bb","cc","dd","ee");
 
-    echo $dataA[3] . "&nbcp; " ;
+    echo $dataA[3] . "&nbcp;" ;
     echo $dataB[1] . " " ;
     echo $dataC[4] . " " ;
 
